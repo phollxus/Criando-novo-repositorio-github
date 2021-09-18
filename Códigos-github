@@ -1,0 +1,27 @@
+git init: Início do repositório
+git status: verificar estado do arquivo
+git add: adicionar arquivos ao seu repositório
+git commit: criação do repositório no git
+ls-a: Mostra arquivos ocultos
+git config --globaluser.email "email" :cadastro de email no gitbash
+git config --globaluser.name "nome" :cadastro do apelido no gitbash
+git rm: Remover arquivos do repositório
+git remote -v: lista de repositórios
+git push: transferir do local para o remoto
+git clone: clonar repositório do github para o gitbash
+git checkout -b: movimentar entre as branches
+git merge: fusão de commits
+git branch: lista de branches tratados
+git branch -m "branch" :renomear branch
+git branch -d "branch" :deletar branch
+git stash save: pega o que está no conteúdo e adiciona
+git log: traz o topo da branch main e os dados principais
+git log --one line: histórico de commits de forma resumida
+git log --graphic: visualização de forma gráfica
+gitk: todo o histórico de commit de uma forma mais resumida
+git reset: resetando commits específicos ou pela cabeça
+git reset --soft: reversão ao git commit
+git reset --mixed: reversão para untracked
+git reset --hard: reinício dos arquivos
+git revert: mover a tag head e gerar uma commit revertendo as alterções
+wq: sair da página git commit
